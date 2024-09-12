@@ -1,0 +1,26 @@
+{
+  "name": "eslint_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorShurko/ajs-homeworks-eslint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "victorshurko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorShurko/ajs-homeworks-eslint/issues"
+  },
+  "homepage": "https://github.com/VictorShurko/ajs-homeworks-eslint#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
